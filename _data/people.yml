@@ -1,19 +1,16 @@
 instructors:
-  - name: Albus Dumbledore
-    profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
+  - name: Rita Singh
+    profile_pic: https://cmu-mlsp.github.io/images/teampic/ritasingh.png
+    webpage: http://mlsp.cs.cmu.edu/people/rsingh/
+    office: GHC 6703
 
 teaching_assistants:
-  - name: Harry Potter
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+  - name: Kashu Yamazaki
+    profile_pic: https://cmu-mlsp.github.io/images/teampic/kashu_yamazaki.jpg
+    webpage: https://kashu7100.github.io/
+    office: GHC 6413
 
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
-
-  - name: Ron Weasley
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+  - name: Sunghwan Baek
+    profile_pic: https://cmu-mlsp.github.io/images/teampic/sunghwan.png
+    webpage: https://cmu-mlsp.github.io/team/
+    office:

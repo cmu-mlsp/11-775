@@ -404,7 +404,7 @@ a.tosu {
 }
 
 .image--cover-container {
-    width: 90px;
+    width: 100px;
     float: left;
     text-align: center;
     margin: 0px;
@@ -441,7 +441,7 @@ a.tosu {
     background-position: center;
     background-size: contain;
   }
-  
+
   /* Set the image to fill its parent and make transparent */
   .center-cropped img {
     min-height: 100%;
@@ -455,16 +455,16 @@ a.tosu {
   }
 
   .lecture-container {
-  
+
     display: flex;
     width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
-    
+
     .thumbnail {
       width: 120px;
     }
-    
+
     .content {
       flex: 1;
     }
@@ -472,18 +472,18 @@ a.tosu {
 
   .previous-offerings{
     list-style-type: none;
-    
+
 
     li {
         display: inline-block;
-        margin-right: 10px; 
+        margin-right: 10px;
     }
 
     li::before {
-        content: "● ";
+        content: "- ";
         color:black;
         padding-right: 5px;
-    } 
+    }
   }
 
   .lecture-links {
