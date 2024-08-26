@@ -4,8 +4,8 @@ course_name: Large-Scale Multimedia Analysis
 course_description: "Can a robot watch Youtube to learn about the world? What makes us laugh? How to bake a cake? Why is Kim Kardashian famous? Large-scale multi-media is an incomparable window into our world, with thousands of hours of data available on almost every aspect of our everyday life. The analysis of such data is a unique opportunity to perform deep multi-modal analysis that goes beyond image or video retrieval, speech to text, or other existing tasks. This is a 12-unit class or lab covering fundamentals of large-scale computer vision, audio and speech processing, multi-media files and streaming, multi-modal signal processing, video retrieval, semantics, and text (possibly also: speech, music) generation. "
 course_semester: "Fall 2024"
 
-baseurl: "/11775" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "/11-775" # the subpath of your site, e.g. /blog/
+url: "https://cmu-mlsp.github.io" # the base hostname & protocol for your site
 
 schoolname: "11-775"
 schoolurl: "https://www.lti.cs.cmu.edu/"
